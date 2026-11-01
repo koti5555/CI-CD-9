@@ -23,8 +23,8 @@ Publishing steps run only after the build and runtime tests succeed. The workflo
 
 ## GHCR image references
 
-- `ghcr.io/koti5555/student-result-prediction:latest`
-- `ghcr.io/koti5555/student-result-prediction:sha-<full-commit-sha>`
+- `ghcr.io/koti5555/student-result-prediction-ci-cd-9:latest`
+- `ghcr.io/koti5555/student-result-prediction-ci-cd-9:sha-<full-commit-sha>`
 
 ## Existing package access
 
