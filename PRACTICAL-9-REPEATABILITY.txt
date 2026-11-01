@@ -1,0 +1,1 @@
+Practical 9 automation is configured. This marker documents the repeatability check: a new commit on main must start the same build-test-publish workflow.
